@@ -1,0 +1,9 @@
+% pip install extract_msg 
+
+find message directory 
+extract over
+ python3 -m extract_msg digital/Albany/*
+ python3 -m extract_msg digital/NYC/* 
+
+ move files manually and delete all references from github
+
